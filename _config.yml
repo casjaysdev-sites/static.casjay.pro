@@ -88,7 +88,8 @@ github:
   user: "casjaysdev"
   avatar: "https://avatars2.githubusercontent.com/u/46037693?s=200&v=4"
   forkme: true
-
+  repository_url: https://github.com/casjay-templates/default-web-assets
+  
 # Enable/Disable footer sections
 options:
   engine: true
