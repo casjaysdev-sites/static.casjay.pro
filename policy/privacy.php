@@ -1,7 +1,7 @@
 <html>
 
 <head>
-  <link rel="stylesheet" type="text/css" href="https://static.casjay.net/default-css/casjaysdev.css">
+  <link rel="stylesheet" type="text/css" href="https://casjaysdev-sites.github.io/static/default-css/casjaysdev.css">
   <title>CasjaysDev Privacy Policy</title>
   <meta name="generator" content="CasjaysDev">
 </head>
@@ -78,7 +78,7 @@
     More information can be found at <a href="http://donottrack.us/" target="_blank"
       rel="noopener">http://donottrack.us/
     </a></p>
-  <?php include 'https://static.casjay.net/casjays-footer.php'; ?>
+  <?php include 'https://casjaysdev-sites.github.io/static/casjays-footer.php'; ?>
 
 </body>
 

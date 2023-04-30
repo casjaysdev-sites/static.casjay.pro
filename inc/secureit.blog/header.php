@@ -5,7 +5,7 @@
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 <meta name="generator" content="CasjaysDev">
 
-<link rel="shortcut icon" href="https://static.casjay.net/favicon.ico" />
+<link rel="shortcut icon" href="https://casjaysdev-sites.github.io/static/favicon.ico" />
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css"
   integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
@@ -15,13 +15,13 @@
 
 <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
 
-<link rel="stylesheet" type="text/css" href="https://static.casjay.net/assets/css/style.css" />
+<link rel="stylesheet" type="text/css" href="https://casjaysdev-sites.github.io/static/assets/css/style.css" />
 
-<link rel="stylesheet" type="text/css" href="https://static.casjay.net/assets/css/global.css" />
+<link rel="stylesheet" type="text/css" href="https://casjaysdev-sites.github.io/static/assets/css/global.css" />
 
-<link rel="stylesheet" type="text/css" href="https://static.casjay.net/assets/css/social.css" />
+<link rel="stylesheet" type="text/css" href="https://casjaysdev-sites.github.io/static/assets/css/social.css" />
 
-<link rel="stylesheet" type="text/css" href="https://static.casjay.net/default-css/casjaysdev.css" />
+<link rel="stylesheet" type="text/css" href="https://casjaysdev-sites.github.io/static/default-css/casjaysdev.css" />
 
 <link href='https://fonts.googleapis.com/css?family=Fira+Sans:300,400,700,400italic,700italic' rel='stylesheet'
   type='text/css'>
@@ -39,8 +39,8 @@
   integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
 </script>
 
-<script src="https://static.casjay.net/default-js/errorpages/isup.js"></script>
-<script src="https://static.casjay.net/default-js/errorpages/homepage.js"></script>
-<script src="https://static.casjay.net/default-js/errorpages/loaddomain.js"></script>
+<script src="https://casjaysdev-sites.github.io/static/default-js/errorpages/isup.js"></script>
+<script src="https://casjaysdev-sites.github.io/static/default-js/errorpages/homepage.js"></script>
+<script src="https://casjaysdev-sites.github.io/static/default-js/errorpages/loaddomain.js"></script>
 <script src="https://cdn.passprotect.io/passprotect.min.js"></script>
 <!--- End Casjays Header --->

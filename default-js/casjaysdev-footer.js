@@ -23,18 +23,18 @@ align = "center" >
   div class = "share-buttons" >
 
   <
-  a href = "https://static.casjay.net/rss " > < img alt = "RSS Feed"
-src = "https://static.casjay.net/default-icons/social/rss-48x48.png" / > < /a>
+  a href = "https://casjaysdev-sites.github.io/static/rss " > < img alt = "RSS Feed"
+src = "https://casjaysdev-sites.github.io/static/default-icons/social/rss-48x48.png" / > < /a>
 
   <
   a href = "https://github.com/casjaysdev-sites/static.casjay.net"
 target = "_blank"
 title = "Github" > < img alt = "Tweet"
-src = "https://static.casjay.net/default-icons/social/github-48x48.png" / > < /a>
+src = "https://casjaysdev-sites.github.io/static/default-icons/social/github-48x48.png" / > < /a>
 
   <
   a href = "mailto:" > < img alt = "Send via email"
-src = "https://static.casjay.net/default-icons/social/email-48x48.png" / > < /a>
+src = "https://casjaysdev-sites.github.io/static/default-icons/social/email-48x48.png" / > < /a>
 
   <
   !--ShareThis BEGIN-- >
