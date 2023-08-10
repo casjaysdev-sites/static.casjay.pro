@@ -13,7 +13,7 @@
     <strong>125 Market ST.
       Amsterdam, NY, 12010</strong></p>
   <p class="c3" style="text-align: center;">We can be reached via e-mail at <a
-      href="mailto:privacy@casjay.net?subject=Privacy%20Policy">Privacy@casjay.net</a>
+      href="mailto:privacy@casjay.pro?subject=Privacy%20Policy">Privacy@casjay.pro</a>
     or you can reach us by telephone at (315) 220-0338</p>
   <p class="c3" style="text-align: center;">For each visitor to our Web page, our Web server automatically recognizes
     the consumer's domain name and e-mail address (where possible).</p>
@@ -66,8 +66,8 @@
   <p class="c3" style="text-align: center;">Most sites on this server also make use of a tarcking system. the use of
     such software allows us to collect such data as Operating System, Browser, and IP Address.
     you can opt-out of Casjays Developments tracking by going to
-    <a href="http://piwik.casjay.net/index.php?module=CoreAdminHome&amp;action=optOut" target="_blank"
-      rel="noopener">http://piwik.casjay.net/index.php?module=CoreAdminHome&amp;action=optOut</a></p>
+    <a href="http://piwik.casjay.pro/index.php?module=CoreAdminHome&amp;action=optOut" target="_blank"
+      rel="noopener">http://piwik.casjay.pro/index.php?module=CoreAdminHome&amp;action=optOut</a></p>
   <p class="c3" style="text-align: center;">Google Analytics Privacy Policy can be found at<a
       href="http://www.google.com/intl/en/analytics/privacyoverview.html" target="_blank" rel="noopener">
       http://www.google.com/intl/en/analytics/privacyoverview.html</a>

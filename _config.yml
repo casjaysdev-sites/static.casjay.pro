@@ -18,11 +18,11 @@ baseurl: ""
 # set site author
 author:
   name: casjaysdev
-  url: http://casjay.net
+  url: http://casjay.pro
 
 # set url for the contact form
 form:
-  submit_url: https://cgi.casjay.net/email.cgi
+  submit_url: https://cgi.casjay.pro/email.cgi
 
 # only set one of columns_ to enabled
 # set a custom theme - includes/themes

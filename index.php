@@ -10,4 +10,4 @@
 You have reached CasjaysDev static site.<br>
 This site is used for serving static files<br>
 <br><br>
-<a href="https://github.com/casjaysdev-sites/static.casjay.net"> <img border="0" alt="GitHub Pages" src="https://casjaysdev-sites.github.io/static/default-icons/poweredby.png"> </a>
+<a href="https://github.com/casjaysdev-sites/static.casjay.pro"> <img border="0" alt="GitHub Pages" src="https://casjaysdev-sites.github.io/static/default-icons/poweredby.png"> </a>

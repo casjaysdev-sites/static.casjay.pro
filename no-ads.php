@@ -4,7 +4,7 @@
 <!-- Social Links -->
 <div class="share-buttons">
 
-  <a href="https://jekyll-casjaysdev-flat.themes.casjaysdev.com//rss "><img alt="RSS Feed"
+  <a href="https://jekyll-casjaysdev-flat.themes.casjaysdev.pro//rss "><img alt="RSS Feed"
       src="https://casjaysdev-sites.github.io/static/default-icons/social/rss-48x48.png" /></a>
 
   <a href="https://github.com/casjay-themes" target="_blank" title="Github"><img alt="Tweet"
@@ -26,21 +26,21 @@
 <br><br>
 <!-- Begin Casjays Developments Footer -->
 Copyright 1999 - 2020<br>
-<a href="https://casjay.net" target="_blank">Casjays Developments</a> and <a href="https://jason.malaks.us" target="_blank">Jason M. Hempstead-Malak</a><br>
-Hosting by <a href="https://casjay.net/hosting" target="_blank">Casjays Developments: Hosting</a><br>
-and powered by <a href="https://casjaysdev.com" target="_blank">CasjaysDev.com</a><br><br>
+<a href="https://casjay.pro" target="_blank">Casjays Developments</a> and <a href="https://jason.malaks.us" target="_blank">Jason M. Hempstead-Malak</a><br>
+Hosting by <a href="https://casjay.pro/hosting" target="_blank">Casjays Developments: Hosting</a><br>
+and powered by <a href="https://casjaysdev.pro" target="_blank">CasjaysDev.com</a><br><br>
 <a href="https://www.patreon.com/casjay" target="_blank"><img src="https://img.shields.io/badge/patreon-donate-orange.svg" border="0" alt="Casjays Patreon Page"></a>
 <a href="https://www.paypal.me/casjaysdev" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg?casjay@paypal.com" alt="Casjays Paypal Page"></a>
 <br><br>
-<a href="https://help.casjay.net" target="_blank">CasjaysDev Support</a> |
-<a href="https://bugs.casjay.net" target="_blank">CasjaysDev Bugs</a> <br>
-<a href="https://status.casjay.net" target="_blank">System Status</a> |
-<a href="https://servers.casjay.net" target="_blank">Service Status</a> |
-<a href="https://status.casjaysdev.com" target="_blank">Complete Status</a> <br>
-<a href="https://casjaysdev.com/domains.html" target="_blank">Casjays Developments Domains</a>
+<a href="https://help.casjay.pro" target="_blank">CasjaysDev Support</a> |
+<a href="https://bugs.casjay.pro" target="_blank">CasjaysDev Bugs</a> <br>
+<a href="https://status.casjay.pro" target="_blank">System Status</a> |
+<a href="https://servers.casjay.pro" target="_blank">Service Status</a> |
+<a href="https://status.casjaysdev.pro" target="_blank">Complete Status</a> <br>
+<a href="https://casjaysdev.pro/domains.html" target="_blank">Casjays Developments Domains</a>
 <br><br>
 Casjays Developments privacy policy can be found at<br>
-<a href="https://casjaysdev.com/policy/" target="_blank">https://casjaysdev.com/policy</a><br>
+<a href="https://casjaysdev.pro/policy/" target="_blank">https://casjaysdev.pro/policy</a><br>
 <br>
 <br>
 
@@ -103,7 +103,7 @@ window.cookieconsent.initialise({
     "message": "In accordance with the EU GDPR law this message is being displayed. - ",
     "dismiss": "I Agree",
     "link": "CasjaysDev Policy",
-    "href": "https://casjaysdev.com/policy/"
+    "href": "https://casjaysdev.pro/policy/"
   },
   "type": "opt-out"
 })});
@@ -125,7 +125,7 @@ window.cookieconsent.initialise({
 <br><br>
 <!-- Begin Piwik Tracking Code -->
 <script type="text/javascript">
-var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.casjay.net/" : "http://piwik.casjay.net/");
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.casjay.pro/" : "http://piwik.casjay.pro/");
 document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script type="text/javascript">
 try {
@@ -134,7 +134,7 @@ piwikTracker.trackPageView();
 piwikTracker.enableLinkTracking();
 } catch( err ) {}
 </script><noscript>
-<p><img src="https://piwik.casjay.net/piwik.php?idsite=1" class="c1" alt=""></p>
+<p><img src="https://piwik.casjay.pro/piwik.php?idsite=1" class="c1" alt=""></p>
 </noscript>
 
 <!-- End Piwik Tracking Code -->

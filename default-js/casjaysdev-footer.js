@@ -27,7 +27,7 @@ align = "center" >
 src = "https://casjaysdev-sites.github.io/static/default-icons/social/rss-48x48.png" / > < /a>
 
   <
-  a href = "https://github.com/casjaysdev-sites/static.casjay.net"
+  a href = "https://github.com/casjaysdev-sites/static.casjay.pro"
 target = "_blank"
 title = "Github" > < img alt = "Tweet"
 src = "https://casjaysdev-sites.github.io/static/default-icons/social/github-48x48.png" / > < /a>
@@ -60,12 +60,12 @@ async = 'async' > < /script> <
   !--Begin Casjays Developments Footer-- >
   Copyright 1999 - 2020 < br >
   <
-  a href = "https://casjay.net"
+  a href = "https://casjay.pro"
 target = "_blank" > Casjays Developments < /a> and <a href="https:/ / jason.malaks.us " target="
 _blank ">Jason M. Hempstead-Malak</a><br>
-Hosting by < a href = "https://casjay.net/hosting"
+Hosting by < a href = "https://casjay.pro/hosting"
 target = "_blank" > Casjays Developments: Hosting < /a><br>
-and powered by < a href = "https://casjaysdev.com"
+and powered by < a href = "https://casjaysdev.pro"
 target = "_blank" > CasjaysDev.com < /a><br><br> <
   a href = "https://www.patreon.com/casjay"
 target = "_blank" > < img src = "https://img.shields.io/badge/patreon-donate-orange.svg"
@@ -76,23 +76,23 @@ target = "_blank" > < img src = "https://img.shields.io/badge/Donate-PayPal-gree
 alt = "Casjays Paypal Page" > < /a> <
   br > < br >
   <
-  a href = "https://help.casjay.net"
+  a href = "https://help.casjay.pro"
 target = "_blank" > CasjaysDev Support < /a> | <
-  a href = "https://bugs.casjay.net"
+  a href = "https://bugs.casjay.pro"
 target = "_blank" > CasjaysDev Bugs < /a> <br> <
-  a href = "https://status.casjay.net"
+  a href = "https://status.casjay.pro"
 target = "_blank" > System Status < /a> | <
-  a href = "https://servers.casjay.net"
+  a href = "https://servers.casjay.pro"
 target = "_blank" > Service Status < /a> | <
-  a href = "https://status.casjaysdev.com"
+  a href = "https://status.casjaysdev.pro"
 target = "_blank" > Complete Status < /a> <br> <
-  a href = "https://casjaysdev.com/domains.html"
+  a href = "https://casjaysdev.pro/domains.html"
 target = "_blank" > Casjays Developments Domains < /a> <
   br > < br >
   Casjays Developments privacy policy can be found at < br >
   <
-  a href = "https://casjaysdev.com/policy/"
-target = "_blank" > https: //casjaysdev.com/policy</a><br>
+  a href = "https://casjaysdev.pro/policy/"
+target = "_blank" > https: //casjaysdev.pro/policy</a><br>
   <
   br >
   <
@@ -179,7 +179,7 @@ href = "https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsen
         "message": "In accordance with the EU GDPR law this message is being displayed. - ",
         "dismiss": "I Agree",
         "link": "CasjaysDev Policy",
-        "href": "https://casjaysdev.com/policy/"
+        "href": "https://casjaysdev.pro/policy/"
       },
       "type": "opt-out"
     })
@@ -216,7 +216,7 @@ br > < br >
   !--Begin Piwik Tracking Code-- >
   <
   script type = "text/javascript" >
-  var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.casjay.net/" : "http://piwik.casjay.net/");
+  var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.casjay.pro/" : "http://piwik.casjay.pro/");
 document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E")); <
 /script><script type="text/javascript
 ">
@@ -226,7 +226,7 @@ try {
   piwikTracker.enableLinkTracking();
 } catch (err) {} <
 /script><noscript> <
-p > < img src = "https://piwik.casjay.net/piwik.php?idsite=1"
+p > < img src = "https://piwik.casjay.pro/piwik.php?idsite=1"
 class = "c1"
 alt = "" > < /p> <
   /noscript>
