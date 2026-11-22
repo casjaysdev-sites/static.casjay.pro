@@ -1,4 +1,4 @@
-<html>
+<html lang="en-US">
 
 <head>
   <link rel="stylesheet" type="text/css" href="https://casjaysdev-sites.github.io/static/default-css/casjaysdev.css">

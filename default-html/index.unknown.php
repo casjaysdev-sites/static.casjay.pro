@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
 <head>
 <?php include "https://casjaysdev-sites.github.io/static/casjays-header.php"; ?>
 <title>Domain Doesn't Exist</title>
