@@ -3,7 +3,7 @@
 <div class="footer footer-custom col-sm-12">
   <!-- Begin Casjays Developments Footer -->
   <div class="footer vh-100">
-    <div class="footer-custom fs-4">
+    <div class="footer-custom">
       <br />
       <br />
       <br />

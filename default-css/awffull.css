@@ -22,8 +22,8 @@ td.summary_desc {text-align: left; font-weight: normal;}   /* Monthly Summary Se
 td.summary_val {}
 td.index_count {text-align: center; font-weight: bold;}    /* Index Counts - day of month, hour etc */
 td.perday_desc {text-align: left; font-weight: normal;}    /* XXX per Day Section */
-td.perday_val {width: 65px;}
-td.perday_avg {width: 65px;}
+td.perday_val {width: 4.0625rem;}
+td.perday_avg {width: 4.0625rem;}
 td.viewall {text-align: center; font-weight: normal;}      /* Trailing ViewAll XXX line */
 tr.viewall {background: #D0D0E0;}
 tr.subtotal {background: #C0C0C0;}
@@ -46,7 +46,7 @@ th.hostname {background: #FF8000;}
 th.referringurl {background: #0080FF;}
 th.stickiness {background: #FFC480;}
 th.popularity {background: #80FFC0;}
-img.flags {margin: 0; width: 25px; height: 15px; padding: 0 0.2em 0 0;}
+img.flags {margin: 0; width: 1.5625rem; height: 0.9375rem; padding: 0 0.2em 0 0;}
 caption {text-align: center; font-weight: bold; background: #C0C0C0; border-width: 2;}    /* Table Caption */
 #navigation {font-size: small;}
 #monthTotal {font-size: small;}

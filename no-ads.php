@@ -14,7 +14,7 @@
         src="https://casjaysdev-sites.github.io/static/default-icons/social/email-48x48.png" /></a>
 
     <!-- ShareThis BEGIN -->
-    <div class="container" style="width: 200px; margin: 0 auto; rows: auto; columns: auto;">
+    <div class="container" style="width: 12.5rem; margin: 0 auto; rows: auto; columns: auto;">
       <script type='text/javascript'
         src='https://platform-api.sharethis.com/js/sharethis.js#property=5acc08103368f4001495b647&product=inline-share-buttons'
         async='async'></script>

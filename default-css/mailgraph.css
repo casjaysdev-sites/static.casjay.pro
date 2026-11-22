@@ -1,20 +1,20 @@
 *     { margin: 0; padding: 0 }
-body  { width: 630px; background-color: white;
+body  { width: 39.375rem; background-color: white;
 	font-family: sans-serif;
 	font-size: 12pt;
-	margin: 5px }
-h1    { margin-top: 20px; margin-bottom: 30px;
+	margin: 0.3125rem }
+h1    { margin-top: 1.25rem; margin-bottom: 1.875rem;
         text-align: center }
 h2    { background-color: #ddd;
-	padding: 2px 0 2px 4px }
-hr    { height: 1px;
+	padding: 0.125rem 0 0.125rem 0.25rem }
+hr    { height: 0.0625rem;
 	border: 0;
-	border-top: 1px solid #aaa }
-table { border: 0px; width: 100% }
+	border-top: 0.0625rem solid #aaa }
+table { border: 0; width: 100% }
 img   { border: 0 }
 a     { text-decoration: none; color: #00e }
 a:hover  { text-decoration: underline; }
-#jump    { margin: 0 0 10px 4px }
+#jump    { margin: 0 0 0.625rem 0.25rem }
 #jump li { list-style: none; display: inline;
            font-size: 90%; }
 #jump li:after            { content: "|"; }
